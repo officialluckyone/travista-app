@@ -9,7 +9,7 @@ export default StyleSheet.create({
   },
   container: { flex: 1, backgroundColor: "#EEEEEE", paddingHorizontal: 16 },
   backButton: { marginBottom: 12 },
-  headline5: { fontSize: 24, color: "#252827", fontFamily: "Urbanist" },
+  headline5: { fontSize: 28, color: "#252827", fontFamily: "Urbanist", fontWeight: 600 },
   headline5Bold: {
     fontSize: 24,
     color: "#252827",
